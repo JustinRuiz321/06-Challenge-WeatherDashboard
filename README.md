@@ -24,9 +24,8 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 ## Deployed Application:
-```
+
 https://justinruiz321.github.io/06-Challenge-WeatherDashboard/
-```
 
 
 Screenshot:
